@@ -33,3 +33,5 @@ def getImg(html):
      
 html = getHtml("https://www.135cd.com/htm/pic2/55341.htm")  
 getImg(html) 
+-----------------
+df
