@@ -31,7 +31,7 @@ def getImg(html):
         urllib2.urlretrieve(imgurl,'%s.jpg' % x)  
         x = x + 1          
      
-html = getHtml("https://www.135cd.com/htm/pic2/55341.htm")  
+
 getImg(html) 
 -----------------
 fix the issue-1
