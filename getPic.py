@@ -35,3 +35,5 @@ html = getHtml("https://www.135cd.com/htm/pic2/55341.htm")
 getImg(html) 
 -----------------
 fix the issue-1
+test_stah finish the stash
+
